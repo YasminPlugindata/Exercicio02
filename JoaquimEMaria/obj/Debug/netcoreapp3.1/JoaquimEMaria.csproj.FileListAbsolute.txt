@@ -1,0 +1,13 @@
+C:\Users\Yasmin Laiz\source\repos\JoaquimEMaria\JoaquimEMaria\bin\Debug\netcoreapp3.1\JoaquimEMaria.exe
+C:\Users\Yasmin Laiz\source\repos\JoaquimEMaria\JoaquimEMaria\bin\Debug\netcoreapp3.1\JoaquimEMaria.deps.json
+C:\Users\Yasmin Laiz\source\repos\JoaquimEMaria\JoaquimEMaria\bin\Debug\netcoreapp3.1\JoaquimEMaria.runtimeconfig.json
+C:\Users\Yasmin Laiz\source\repos\JoaquimEMaria\JoaquimEMaria\bin\Debug\netcoreapp3.1\JoaquimEMaria.runtimeconfig.dev.json
+C:\Users\Yasmin Laiz\source\repos\JoaquimEMaria\JoaquimEMaria\bin\Debug\netcoreapp3.1\JoaquimEMaria.dll
+C:\Users\Yasmin Laiz\source\repos\JoaquimEMaria\JoaquimEMaria\bin\Debug\netcoreapp3.1\JoaquimEMaria.pdb
+C:\Users\Yasmin Laiz\source\repos\JoaquimEMaria\JoaquimEMaria\obj\Debug\netcoreapp3.1\JoaquimEMaria.csprojAssemblyReference.cache
+C:\Users\Yasmin Laiz\source\repos\JoaquimEMaria\JoaquimEMaria\obj\Debug\netcoreapp3.1\JoaquimEMaria.AssemblyInfoInputs.cache
+C:\Users\Yasmin Laiz\source\repos\JoaquimEMaria\JoaquimEMaria\obj\Debug\netcoreapp3.1\JoaquimEMaria.AssemblyInfo.cs
+C:\Users\Yasmin Laiz\source\repos\JoaquimEMaria\JoaquimEMaria\obj\Debug\netcoreapp3.1\JoaquimEMaria.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin Laiz\source\repos\JoaquimEMaria\JoaquimEMaria\obj\Debug\netcoreapp3.1\JoaquimEMaria.dll
+C:\Users\Yasmin Laiz\source\repos\JoaquimEMaria\JoaquimEMaria\obj\Debug\netcoreapp3.1\JoaquimEMaria.pdb
+C:\Users\Yasmin Laiz\source\repos\JoaquimEMaria\JoaquimEMaria\obj\Debug\netcoreapp3.1\JoaquimEMaria.genruntimeconfig.cache
